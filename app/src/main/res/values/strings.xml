@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dalmaji</string>
+    <string name="notification_button_description">Notification button</string>
+    <string name="settings_button_description">Settings button</string>
+</resources>
