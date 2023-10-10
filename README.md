@@ -24,7 +24,7 @@
 ## 🏃🏻 Team Member
 <table algin="center">
    <tr>
-      <td colspan="1" align="center"><strong>Android + DL + Co-founder</strong></td>
+      <td colspan="1" align="center"><strong>DL + Co-founder</strong></td>
       <td colspan="1" align="center"><strong>PM + Co-founder</strong></td>
       <td colspan="1" align="center"><strong>Android</strong></td>
    </tr>
