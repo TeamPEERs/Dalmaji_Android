@@ -1,6 +1,8 @@
+
+![스크린샷 2023-10-10 오후 6 21 51](https://github.com/jwyeeh-dev/Dalmaji_DL/assets/99489807/212a20cc-5863-492e-b23b-1d776b495b7e)
+
 # 🌕 DALMAJI (달맞이)
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/99489807/231096541-f092cf91-1b33-4474-85a5-2ef6d46a8b05.png" alt="이력"> </p>
 
 ## 💁🏻‍♂️ Service Explanation
 
@@ -14,6 +16,8 @@
 
 
 ## 🖥️ Demo Video
+<p align="center"> <img src="https://user-images.githubusercontent.com/99489807/231096541-f092cf91-1b33-4474-85a5-2ef6d46a8b05.png" alt="이력"> </p>
+
 [![Thumbnail](https://user-images.githubusercontent.com/99489807/231089734-905c37b6-3fba-46e9-9ed0-4e198477742f.png)](https://youtu.be/-GgAbQSYc4U)
 
 </br>
