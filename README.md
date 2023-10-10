@@ -6,7 +6,6 @@
 
 ## 💁🏻‍♂️ Service Explanation
 
-![Service Explanation 1](https://user-images.githubusercontent.com/99489807/231088713-525f89e5-7afe-4b4e-9b08-238152b1d98b.jpeg)
 ![Service Explanation 2](https://user-images.githubusercontent.com/99489807/231088746-d55a4688-a5d1-4f8e-a9e4-ed878202e122.jpeg)
 ![Service Explanation 3](https://user-images.githubusercontent.com/99489807/231088761-d078613b-b753-41da-bb2f-15579698f251.jpeg)
 ![Service Explanation 4](https://user-images.githubusercontent.com/99489807/231088774-c84946ad-0847-4040-be9a-51571f8feaf8.jpeg)
